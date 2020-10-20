@@ -1,0 +1,9 @@
+<configuration>
+   <input>
+       <net-file value="sumoolympics.net.xml"/>
+       <route-files value="sumoolympics.rou.xml,sumoolympicWalks.rou.xml"/>
+   </input>
+   <processing>
+    <lateral-resolution value="1." />
+   </processing>
+</configuration>
